@@ -6,6 +6,8 @@ Needs Python,Flask,Moviepy,ImageMagik installed on your system.
 
 ## Running
 
+`git clone https://github.com/taaaahahaha/MoviePy-WebApp.git`
+
 `cd /MovieApp/`
 
 `python app.py`
