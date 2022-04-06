@@ -6,9 +6,9 @@ Needs Python,Flask,Moviepy,ImageMagik installed on your system.
 
 ## Running
 
-cd /MovieApp/
+`cd /MovieApp/`
 
-python app.py
+`python app.py`
 
 ### Notes
 
