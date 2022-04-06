@@ -7,6 +7,7 @@ Needs Python,Flask,Moviepy,ImageMagik installed on your system.
 ## Running
 
 cd /MovieApp/
+
 python app.py
 
 ### Notes
